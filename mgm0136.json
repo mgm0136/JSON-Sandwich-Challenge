@@ -1,0 +1,22 @@
+<!--not done with code yet.-->
+
+var sandwhich = [{
+		"bread": "wheat",
+		"mayo": "low-fat",
+		"lettuce": "romaine",
+		"tomato": "vine tomatoe",
+		"chicken": "wood-grilled",
+		"pineapple": "whole pineapple",
+		"salt": "salt",
+		"pepper": "pepper",
+		"oregano": "oregano",
+		"italian seasoning",
+		"italian seasoning"
+	},
+	var beverages = {
+
+		"beer": "Stella Artois",
+		"whiskey": "Jameson with coke",
+	}
+]
+};
